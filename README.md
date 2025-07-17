@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kstrikis-ephor-mcp-badge.png)](https://mseep.ai/app/kstrikis-ephor-mcp)
+
 # LLM Responses MCP Server
 
 A Model Context Protocol (MCP) server that allows multiple AI agents to share and read each other's responses to the same prompt.
